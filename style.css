@@ -1,0 +1,35 @@
+body{
+  background-color:#caebf2;
+}
+
+.h1{
+  color:white;
+  background-color: #a239ca;
+  text-align: center;
+  margin-bottom:-20px;
+}
+
+.divp1{
+  color:#6b6b6b;
+  margin-bottom: -10px;
+ }
+
+h3{
+  color: red;
+}
+
+.divp2{
+  color:#6b6b6b;
+}
+
+.p4{
+  color:#6b6b6b;
+}
+
+img{
+  border: solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
